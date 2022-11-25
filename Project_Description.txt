@@ -1,0 +1,4 @@
+Task 1 - visualization that provides breakdown bw male and female employees working starting from 1990
+Task 2 - compare no of active male to female managers from 1990
+Task 3 - compare avg salary of female vs male employees until 2002 + add a filter
+Task 4 - Obtain average male and female salary per dept within a certain salary range > this range is provided by user > visualize it in a double bar chart
